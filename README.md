@@ -20,6 +20,7 @@ Saludos!
 
 Foto de mi persona:
 
+![Foto de mi persona](https://github.com/algo1unsam/presentaciontp0-Mpenizzotto/blob/dfeb3280f42248224fca9c70f5a152eb2a6ea51c/foto_git.png)
 
 
 
